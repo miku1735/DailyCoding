@@ -10,3 +10,4 @@ TEMPLATE = DAY + QUESTION NO + TOPIC + QUESTION NAME
  - Day3_Q4.   [Heap_CourseScheduleIII](https://github.com/miku1735/DailyCoding/blob/master/Day3_Q4_Heap_CourseScheduleIII.java)
  - Day4_Q5.   [Array_RunningSumOf1dArray](https://github.com/miku1735/DailyCoding/blob/master/Day4_Q5_Array_RunningSumof1dArray.java)
  - Day5_Q6.   [Array_NonDecreasingArray](https://github.com/miku1735/DailyCoding/blob/master/Day5_Q6_Array_NonDecreasingArray.java)
+ - Day6_Q7.   [JumpGame2](https://github.com/miku1735/DailyCoding/blob/master/Day6_Q7%26_DP_JumpGame2.java)
