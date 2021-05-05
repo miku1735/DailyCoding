@@ -51,7 +51,6 @@ class Solution {
                     if(newIndex<=nums.length-1){
                         localMin = localMin > a[newIndex]?a[newIndex]:localMin;
                     }
-
                 }
                 a[index] = localMin==Integer.MAX_VALUE?Integer.MAX_VALUE:localMin+1;
             }
