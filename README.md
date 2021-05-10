@@ -5,7 +5,7 @@
 > TEMPLATE = DAY + QUESTION NO --> TOPIC --> QUESTION NAME
 
 
-| Days_Ques|Topic| Question Link| Solution|Practice|Level|
+| Days_Ques|Topic| Question Link| Solution|Practice|Difficulty|
 | -------- |-----|-------------|----------|:---:|----|
 | Day1_Q1  |LinkedList|[PalindromeCheckLinkedList](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day1_Q1_Palindrome_Linked_List.java)||⭐⭐⭐|
 | Day2_Q2  |DP|[OnesAndZeroesSubset](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3694/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day1_Q2_DP_Ones_%26_Zeroes_subset.java)||⭐⭐⭐⭐|
@@ -21,3 +21,4 @@
 | Day9_Q12 | DP | [Delete Operation for Two Strings](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3734/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day9_Q12_DP_DeleteOperationForTwoStrings.java)||⭐⭐⭐⭐|
 | Day10_Q13| Array | [Super Palindromes](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3736/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day10_Q13_Array_SuperPalindromes.java)||⭐⭐⭐⭐|
 | Day11_Q14| Array | [Construct Target Array With Multiple Sums](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3737/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day11_Q14_Array_ConstructTargetArrayWithMultipleSums.java)||⭐⭐⭐|
+| Day12_Q15| Array | [Count Prime (Used Sieve of Eratosthenes)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3738/)|[Soluion](https://github.com/miku1735/DailyCoding/blob/master/Day12_Q15_Array_CountPrimes.java)|| ⭐⭐⭐⭐⭐|
