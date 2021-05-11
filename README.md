@@ -1,5 +1,8 @@
 <div align="center"> <h1> DailyCoding </h1></div>
 
+> [![](https://tokei.rs/b1/github/miku1735/DailyCoding)](https://github.com/XAMPPRocky/tokei)
+
+
 > LeetCode
 
 > TEMPLATE = DAY + QUESTION NO --> TOPIC --> QUESTION NAME
