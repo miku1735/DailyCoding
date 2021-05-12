@@ -1,11 +1,17 @@
 <div align="center"> <h1> DailyCoding </h1></div>
 
 > [![](https://tokei.rs/b1/github/miku1735/DailyCoding)](https://github.com/XAMPPRocky/tokei)
+> 🚶‍♂️
 
 
-> LeetCode
+>   Total Coding Days = Total Files 😎
+>   
+> [![](https://tokei.rs/b1/github/miku1735/DailyCoding?category=files)](https://github.com/XAMPPRocky/tokei) 
 
-> TEMPLATE = DAY + QUESTION NO --> TOPIC --> QUESTION NAME
+
+> LeetCode 🤩
+>
+> TEMPLATE = DAY + QUESTION NO --> TOPIC --> QUESTION NAME  🚐
 
 
 | Days_Ques|Topic| Question Link| Solution|Practice|Difficulty|
@@ -26,3 +32,5 @@
 | Day11_Q14| Array | [Construct Target Array With Multiple Sums](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3737/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day11_Q14_Array_ConstructTargetArrayWithMultipleSums.java)||⭐⭐⭐|
 | Day12_Q15| Array | [Count Prime (Used Sieve of Eratosthenes)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3738/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day12_Q15_Array_CountPrimes.java)|| ⭐⭐⭐⭐⭐|
 | Day12_Q16| Array | [Maximum Points You Can Obtain from Cards](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3739/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day12_Q16_Array_MaximumPointsYouCanObtainFromCards.java)||⭐⭐⭐|
+| Day13_Q17| Graph | Bfs Shortest DistanceAndPath | [Solution](https://github.com/miku1735/DailyCoding/blob/master/Day13_Q17_Graph_DfsShortestDistanceAndPath.java)| Yes ||
+| Day13_Q!8| 2D Array| [Range Sum Query 2D - Immutable](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3740/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day13_Q18_2DArray_RangeSumQuery2DImmutable.java)||⭐⭐⭐|
