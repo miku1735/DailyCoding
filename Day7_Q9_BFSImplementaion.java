@@ -47,7 +47,7 @@
 // Constraints:
 // 1 ≤ V, E ≤ 104
 
-public class Day7_Q9_DFSImplementaion {
+public class Day7_Q9_BFSImplementaion {
     //Function to return Breadth First Traversal of given graph.
     public ArrayList<Integer> bfsOfGraph(int V,ArrayList<ArrayList<Integer>> adj)
     {
