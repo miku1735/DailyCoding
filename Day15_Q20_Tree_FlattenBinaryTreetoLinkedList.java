@@ -59,8 +59,8 @@
  * }
  */
 class Solution {
-    public void flatten(TreeNode root) {
-        static TreeNode child = null;
+    TreeNode child = null;
+    public void flatten(TreeNode root) { 
         if(root==null) return;
         flatten(root.right);
         flatten(root.left);
