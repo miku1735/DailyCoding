@@ -45,3 +45,4 @@
 | Day16_Q27| Array | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day16_Q27_Array_FizzBuzz.java)|Top Interview Questions Leetcode|⭐|
 | Day16_Q28| Array | [Majority Elmt(More's Voting Algo)](https://leetcode.com/problems/majority-element/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day16_Q28_Array_MajorityElement.java)|Top Interview Questions Leetcode|⭐⭐|
 | Day16_Q29| String | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day16_Q29_String_ValidAnagram.java)|Top Interview Questions Leetcode|⭐|
+| Day16_Q30| Tree | [Binary Tree Cameras](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3745/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day16_Q30_Tree_BinaryTreeCameras.java)|May Challenge|⭐⭐⭐⭐|
