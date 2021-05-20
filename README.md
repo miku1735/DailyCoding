@@ -52,3 +52,4 @@
 | Day18_Q34| Array | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day18_Q34_Array_MoveZeroes.java)|Top Interview Questions Leetcode|⭐|
 | Day19_Q35| String| [ExcelSheetColumnNo](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day19_Q35_String_ExcelSheetColumnNo.java)|Top Interview Questions Leetcode|⭐|
 | Day19_Q36| Array| [MinMoveEqualArrayElmts](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3748/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day19_Q36_Array_MinMovesEqualArrayElements.java)|May Challenge|⭐⭐⭐|
+| Day20_Q37| Array| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Soltion](https://github.com/miku1735/DailyCoding/blob/master/Day20_Q37_Array_ContainDuplicates.java)|Top Interview Questions Leetcode|⭐|
