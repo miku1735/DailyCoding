@@ -77,3 +77,4 @@
 | Day29_Q59|String|[SortingTheSentence](https://leetcode.com/problems/sorting-the-sentence/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day29_Q59_String_SortingTheSentence.java)|BI Weekly Contest|⭐⭐| 
 | Day29_Q60|Array|[IncrementalMemoryLeak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day29_Q60_Array_IncrementalMemoryLeak.java)|BI Weekly Contest|⭐⭐⭐|
 | Day29_Q61|2DArray|[Rotating the Box](https://leetcode.com/problems/rotating-the-box/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day29_Q61_2DArray_RotatingTheBox.java)|BI Weekly Contest|⭐⭐⭐⭐|
+| Day29_Q62|Array|[MinMaxPairSumInArray](https://leetcode.com/contest/biweekly-contest-53/problems/minimize-maximum-pair-sum-in-array/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day29_Q62_Array_MinMaxPairSumInArray.java)|BI Weekly Contest|⭐⭐|
