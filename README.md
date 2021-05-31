@@ -1,12 +1,16 @@
 <div align="center"> <h1> DailyCoding </h1></div>
 
+
 > [![](https://tokei.rs/b1/github/miku1735/DailyCoding)](https://github.com/XAMPPRocky/tokei)
-> 🚶‍♂️
+> 🚶‍
+
+<img align="right" alt="GIF" src="https://leetcode.com/static/images/badges/dcc-2021-5.png" width="100" height="100" />
 
 
 >   Total Coding Questions = Total Files 😎
 >   
 > [![](https://tokei.rs/b1/github/miku1735/DailyCoding?category=files)](https://github.com/XAMPPRocky/tokei) 
+
 
 
 > LeetCode 🤩
