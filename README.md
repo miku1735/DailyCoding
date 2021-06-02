@@ -86,3 +86,4 @@
 | Day30_Q64|Array|[* Maximum Gap(Pigeon hole)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3761/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day30_Q64_Array_MaximumGap(PigeonHole).java)| May Challenge|⭐⭐⭐⭐⭐|
 | Day31_Q65|Tries|[* Prefix and Suffix Search](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3728/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day31_Q65_Tries_Prefix%26SuffixSearch.java)| May Challenge|⭐⭐⭐⭐⭐|
 | Day31_Q66|Tries|[Search Suggestions System](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3762/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day31_Q66_Tries_SearchSuggestionsSystem.java)|May Challenge|⭐⭐⭐|
+|Day31_Q67|
