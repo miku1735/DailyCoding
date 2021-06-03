@@ -92,3 +92,4 @@
 | Day34_Q70|Graph|[FindTheTownJudge](https://leetcode.com/problems/find-the-town-judge/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day34_Q70_Graph_FindTheTownJudge.java)|Practice|⭐⭐|
 | Day34_Q71|Graph|[FindCenterOfStarGraph](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day34_Q71_Graph_FindCenterOfStarGraph.java)|Practice|⭐⭐|
 | Day34_Q72|Graph|[* All Paths From Source to Targe](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day34_Q72_Graph_AllPathsFromSourceToTarget.java)|Practice|⭐⭐⭐|
+| Day34_Q73|Graph|[MinNumOfVertice2ReachAllNode](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day34_Q73_Graph_MinNoOfVerticesToReachAllNodes.java)|Practice|⭐⭐⭐|
