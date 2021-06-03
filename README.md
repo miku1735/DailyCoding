@@ -91,3 +91,4 @@
 | Day34_Q69|2DArray|[MinNoOfVerticesToReachAllNodes](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3766/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day34_Q69_2DArray_MaxAreaOfPieceOfCakeByHAndVCuts.java)|June|⭐⭐|
 | Day34_Q70|Graph|[FindTheTownJudge](https://leetcode.com/problems/find-the-town-judge/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day34_Q70_Graph_FindTheTownJudge.java)|Practice|⭐⭐|
 | Day34_Q71|Graph|[FindCenterOfStarGraph](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day34_Q71_Graph_FindCenterOfStarGraph.java)|Practice|⭐⭐|
+| Day34_Q72|Graph|[* All Paths From Source to Targe](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Day34_Q72_Graph_AllPathsFromSourceToTarget.java)|Practice|⭐⭐⭐|
