@@ -118,3 +118,5 @@
 | Day49_Q98|Graph|Dijkstra Algo Impl|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day49_Q98_Graph_DijkstraAlog.java)|Impl||
 | Day49_Q99|Graph|[Topological sort DFS](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day49_Q99_Graph_TopologicalSortDFS.java)|Practice|⭐⭐|
 | Day49_Q100|Graph|[TopoSortBFS aka (Kan's Algo)](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day49_Q100_Graph_TopoSortBFSakaKahnsAlgo.java)|Practice|⭐⭐|
+| Day50_Q101|Graph
+| Day51_Q102|Graph
