@@ -120,3 +120,4 @@
 | Day49_Q100|Graph|[TopoSortBFS aka (Kan's Algo)](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day49_Q100_Graph_TopoSortBFSakaKahnsAlgo.java)|Practice|⭐⭐|
 | Day50_Q101|Graph
 | Day51_Q102|Graph
+| Day52_Q104|Graph|[* Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day52_Q104_Graph_SnakesAndLadders.java)|Practice|⭐⭐⭐⭐|
