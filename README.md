@@ -122,3 +122,4 @@
 | Day51_Q102|Graph
 | Day52_Q104|Graph|[* Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day52_Q104_Graph_SnakesAndLadders.java)|Practice|⭐⭐⭐⭐|
 | Day53_Q105|Graph|[** Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day53_Q105_Graph_CriticalConnInNetwork.java)|Practice|⭐⭐⭐⭐|
+| Day54_Q106|Graph|[Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day54_Q106_Graph_BipartiteGraph.java)|Practice|⭐⭐⭐|
