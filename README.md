@@ -127,3 +127,4 @@
 | Day54_Q108|Graph|[JourneyToTheMoon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day54_Q108_Graph_JourneyToTheMoon.java)|Practice|⭐⭐⭐⭐|
 | Day55_Q110|Array|[ReverseArray](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day55_Q110_Array_ReverseTheArray.java)|Practice|⭐|
 | Day56_Q111|Graph|[* CheapestFlightsinKStops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day56_Q111_Graph_ChepestFlightUnderKStops.java)|Practice|⭐⭐⭐⭐|
+| Day57_Q112|Array|[Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day57_Q112_Array_KthElement.java)|Practice|⭐|
