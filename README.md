@@ -130,3 +130,4 @@
 | Day57_Q112|Array|[Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day57_Q112_Array_KthElement.java)|Practice|⭐|
 | Day58_Q112|
 | Day59_Q113|
+| Day60_Q114|
