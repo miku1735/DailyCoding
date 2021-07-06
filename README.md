@@ -129,6 +129,6 @@
 | Day55_Q110|Array|[ReverseArray](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day55_Q110_Array_ReverseTheArray.java)|Practice|⭐|
 | Day56_Q111|Graph|[* CheapestFlightsinKStops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day56_Q111_Graph_ChepestFlightUnderKStops.java)|Practice|⭐⭐⭐⭐|
 | Day57_Q112|Array|[Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day57_Q112_Array_KthElement.java)|Practice|⭐|
-| Day58_Q112|
-| Day59_Q113|
-| Day60_Q114|
+| Day58_Q113|Sorting|[kth Samllest No(Basic)](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Sorting/QuickSort_KthSmallestElement/Day58_Q113_Sorting_1_Basic.java)|Practice|⭐⭐|
+| Day58_Q114|Sorting|[kth Samllest No(RandomPivot)](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Sorting/QuickSort_KthSmallestElement/Day58_Q114_Sorting_2_RandomPivotSelection.java)|Practice|⭐⭐|
+| Day58_Q115|Sorting|[kth Samllest No(Middle Pivot)](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Sorting/QuickSort_KthSmallestElement/Day58_Q115_Sorting_2_MiddlePivotSelection.java)|Practice|⭐⭐|
