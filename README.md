@@ -118,8 +118,9 @@
 | Day49_Q98|Graph|Dijkstra Algo Impl|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day49_Q98_Graph_DijkstraAlog.java)|Impl||
 | Day49_Q99|Graph|[Topological sort DFS](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day49_Q99_Graph_TopologicalSortDFS.java)|Practice|⭐⭐|
 | Day49_Q100|Graph|[TopoSortBFS aka (Kan's Algo)](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day49_Q100_Graph_TopoSortBFSakaKahnsAlgo.java)|Practice|⭐⭐|
-| Day50_Q101|Graph
-| Day51_Q102|Graph
+| Day50_Q101|Graph|[Minimum time taken by each job](https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day50_Q101_Graph_MinTimeTakenByJobs.java)|Practice|⭐⭐⭐|
+| Day50_Q102|Graph|[FindWhetherIt'sPossibleToFinishTasks](https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day50_Q102_Graph_WeatherPossibleToFinishAllTask.java)|Practice|⭐⭐⭐|
+| Day51_Q103|Graph|[Negative weight cycle](https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day51_Q103_Graph_DetectNegativeCycle.java)||Practice|⭐⭐⭐|
 | Day52_Q104|Graph|[* Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day52_Q104_Graph_SnakesAndLadders.java)|Practice|⭐⭐⭐⭐|
 | Day53_Q105|Graph|[** Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day53_Q105_Graph_CriticalConnInNetwork.java)|Practice|⭐⭐⭐⭐|
 | Day54_Q106|Graph|[Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Graph%20Practice/Day54_Q106_Graph_BipartiteGraph.java)|Practice|⭐⭐⭐|
