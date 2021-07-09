@@ -139,3 +139,4 @@
 | Day62_Q126|DP|[0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day62_Q126_DP_0%261Knapsack.java)|Practice|⭐⭐⭐|
 | Day63_Q127|DP|[Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day63_Q127_DP_EqualSumSubset.java)|Practice|⭐⭐⭐|
 | Day63_Q128|DP|[Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day63_Q128_DP_MinimumSumPartition.java)|Practice|⭐⭐⭐⭐⭐|
+| Day64_Q129|DP|[* Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day64_Q129_DP_TargetSum.java)|Practice|⭐⭐⭐⭐|
