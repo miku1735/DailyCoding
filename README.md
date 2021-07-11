@@ -146,3 +146,4 @@
 | Day65_Q132|DP|[* Number of Coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day65_Q132_DP_Number%20of%20Coins.java)|Practice|⭐⭐⭐⭐|
 | Day65_Q133|DP|[LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1#)|[Solution](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1#)|Practice|⭐⭐⭐|
 | Day65_Q134|DP|[Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day65_Q134_DP_LongestCommonSubString.java)|Practice|⭐⭐⭐|
+| Day65_Q135|DP|[Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day66_Q135_DP_ShortestCommonSuperSequence.java)|Practice|⭐⭐⭐|
