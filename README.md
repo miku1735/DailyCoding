@@ -141,3 +141,4 @@
 | Day63_Q128|DP|[Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day63_Q128_DP_MinimumSumPartition.java)|Practice|⭐⭐⭐⭐⭐|
 | Day64_Q129|DP|[* Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day64_Q129_DP_TargetSum.java)|Practice|⭐⭐⭐⭐|
 | Day64_Q130|DP|[Coin Change](https://practice.geeksforgeeks.org/problems/coin-change2448/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day64_Q130_DP_CoinChange.java)|Practice|⭐⭐⭐|
+| Day64_Q131|DP|[* Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day64_Q131_DP_MaximizeTheCutSegments.java)|Practice|⭐⭐⭐⭐|
