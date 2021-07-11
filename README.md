@@ -144,3 +144,4 @@
 | Day64_Q131|DP|[* Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day64_Q131_DP_MaximizeTheCutSegments.java)|Practice|⭐⭐⭐⭐|
 | Day65_Q132|DP|[* Number of Coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day65_Q132_DP_Number%20of%20Coins.java)|Practice|⭐⭐⭐⭐|
 | Day65_Q133|DP|[LCS](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1#)|[Solution](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1#)|Practice|⭐⭐⭐|
+| Day65_Q134|DP|[Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day65_Q134_DP_LongestCommonSubString.java)|Practice|⭐⭐⭐|
