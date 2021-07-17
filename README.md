@@ -157,3 +157,4 @@
 | Day67_Q142|DP|[MatrixMultiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day67_Q142_DP_MatrixMultiplication.java)|Practice|⭐⭐⭐⭐|
 | Day67_Q143|Sort|[Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Sorting/Day67_Q143_MergeSort.java)|Practice|⭐⭐|
 | Day68_Q144|Array|[* Inversion Count](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q144_Array_InversionCount.java)|Practice|⭐⭐⭐⭐|
+| Day68_Q145|Array|[ArraySubsetOfArray](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q145_Array_ArraySubsetOfAnotherArray.java)|Practice|⭐⭐|
