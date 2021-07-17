@@ -155,3 +155,4 @@
 | Day66_Q140|DP|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day66_Q140_DP_IsSubsequence.java)|Practice|⭐⭐⭐|
 | Day66_Q141|DP|[Form a palindrome](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day66_Q141_DP_FormPalindrome.java)|Practice|⭐⭐⭐|
 | Day67_Q142|DP|[MatrixMultiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day67_Q142_DP_MatrixMultiplication.java)|Practice|⭐⭐⭐⭐|
+| Day67_Q143|Sorting|[Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Sorting/Day67_Q143_MergeSort.java)|Practice|⭐⭐|
