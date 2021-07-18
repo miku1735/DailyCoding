@@ -160,3 +160,4 @@
 | Day68_Q145|Array|[ArraySubsetOfArray](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q145_Array_ArraySubsetOfAnotherArray.java)|Practice|⭐⭐|
 | Day69_Q146|DP|[Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q146_DP_EditDistance.java)|Practice|⭐⭐⭐|
 | Day69_Q147|DP|[nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q147_DP_nCr.java)|Practice|⭐⭐⭐|
+| Day69_Q148|DP|[* Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q148_DP_Nth%20catalan%20number.java)|Practice|⭐⭐⭐|
