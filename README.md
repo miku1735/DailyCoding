@@ -158,3 +158,4 @@
 | Day67_Q143|Sort|[Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Sorting/Day67_Q143_MergeSort.java)|Practice|⭐⭐|
 | Day68_Q144|Array|[* Inversion Count](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q144_Array_InversionCount.java)|Practice|⭐⭐⭐⭐|
 | Day68_Q145|Array|[ArraySubsetOfArray](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q145_Array_ArraySubsetOfAnotherArray.java)|Practice|⭐⭐|
+| Day69_Q146|DP|[Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q146_DP_EditDistance.java)|Practice|⭐⭐⭐|
