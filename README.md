@@ -161,3 +161,4 @@
 | Day69_Q146|DP|[Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q146_DP_EditDistance.java)|Practice|⭐⭐⭐|
 | Day69_Q147|DP|[nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q147_DP_nCr.java)|Practice|⭐⭐⭐|
 | Day69_Q148|DP|[* Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q148_DP_Nth%20catalan%20number.java)|Practice|⭐⭐⭐|
+| Day70_Q149|
