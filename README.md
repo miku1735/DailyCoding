@@ -156,9 +156,10 @@
 | Day66_Q141|DP|[Form a palindrome](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day66_Q141_DP_FormPalindrome.java)|Practice|⭐⭐⭐|
 | Day67_Q142|DP|[MatrixMultiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day67_Q142_DP_MatrixMultiplication.java)|Practice|⭐⭐⭐⭐|
 | Day67_Q143|Sort|[Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Sorting/Day67_Q143_MergeSort.java)|Practice|⭐⭐|
-| Day68_Q144|Array|[* Inversion Count](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q144_Array_InversionCount.java)|Practice|⭐⭐⭐⭐|
-| Day68_Q145|Array|[ArraySubsetOfArray](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q145_Array_ArraySubsetOfAnotherArray.java)|Practice|⭐⭐|
+| Day68_Q144|Arr|[* Inversion Count](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q144_Array_InversionCount.java)|Practice|⭐⭐⭐⭐|
+| Day68_Q145|Arr|[ArraySubsetOfArray](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Array/Day68_Q145_Array_ArraySubsetOfAnotherArray.java)|Practice|⭐⭐|
 | Day69_Q146|DP|[Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q146_DP_EditDistance.java)|Practice|⭐⭐⭐|
 | Day69_Q147|DP|[nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q147_DP_nCr.java)|Practice|⭐⭐⭐|
 | Day69_Q148|DP|[* Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day69_Q148_DP_Nth%20catalan%20number.java)|Practice|⭐⭐⭐|
-| Day70_Q149|
+| Day70_Q149|DP|[** Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day70_Q149_DP_Friends%20Pairing%20Problem.java)|Practice|⭐⭐⭐|
+| Day71_Q150|DP|[** Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day71_Q150_DP_Gold%20Mine%20Problem.java)|Practice|⭐⭐⭐|
