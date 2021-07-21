@@ -164,3 +164,4 @@
 | Day70_Q149|DP|[** Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day70_Q149_DP_Friends%20Pairing%20Problem.java)|Practice|⭐⭐⭐|
 | Day71_Q150|DP|[** Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day71_Q150_DP_Gold%20Mine%20Problem.java)|Practice|⭐⭐⭐|
 | Day72_Q151|DP|[** Painting the Fence](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day72_Q151_DP_Painting%20the%20Fence.java)|Practice|⭐⭐⭐⭐⭐|
+| Day73_Q152|DP|[** LIS](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day73_Q152_QDP_LongestIncreasingSubsequence.java)|Practice|⭐⭐⭐⭐|
