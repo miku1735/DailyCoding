@@ -176,3 +176,4 @@
 | Day77_Q160|BT|[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Tree/BinaryTree/Day77_Q160_BT_TopView.java)|Practice|⭐⭐⭐|
 | Day77_Q161|BT|[Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Tree/BinaryTree/Day77_Q161_BT_BottomView.java)|Practice|⭐⭐⭐|
 | Day77_Q162|BT|[ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Tree/BinaryTree/Day77_Q162_BT_ZigZag%20Tree%20Traversal.java)|Practice|⭐⭐|
+| Day78_Q163|BT|[Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Tree/BinaryTree/Day78_Q163_BT_Check%20for%20Balanced%20Tree.java)|Practice|⭐⭐|
