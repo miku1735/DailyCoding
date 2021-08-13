@@ -207,3 +207,4 @@
 | Day92_Q191|2D|[** Kth element in Matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/matrix/Day92_Q191_2D_KthElementInMatrix.java)|Practice|⭐⭐⭐|
 | Day92_Q192|Str|[** all subsequences of string](https://www.geeksforgeeks.org/print-subsequences-string/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/String/Day92_Q192_PrintAllSubsequence.java)|Practice|⭐⭐⭐|
 | Day93_Q193|2D|[** Median in a row-wise sorted Matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/matrix/Day93_Q193_2D_Median%20in%20a%20row-wise%20sorted%20Matrix.java)|Practice|⭐⭐⭐|
+| Day94_Q194|2D|[** Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/matrix/Day94_Q194_2D_Rotate%20Image.java)|Practice|⭐⭐|
