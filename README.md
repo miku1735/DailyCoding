@@ -225,3 +225,5 @@
 | Day100_Q209|BM|[Find position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/BitManupulation/Day100_Q209_BM_FindPositionOfSetBit.java)|Practice|⭐⭐|
 | Day101_Q210|BST|[CountBSTNodesInnARange](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Tree/BinarySearchTree/Day101_Q210_Count%20BST%20nodes%20that%20lie%20in%20a%20given%20range.java)|Practice|⭐⭐|
 | Day101_Q211|DP|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day101_Q211_DP_CountingBits.java)|Practice|⭐⭐|
+| Day101_Q212|DP|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day101_Q212_DP_Fibonacci.java)|Practice|⭐|
+| Day101_Q213|DP|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day101_Q213_DP_N-th%20Tribonacci%20Number.java)|Practice|⭐|
