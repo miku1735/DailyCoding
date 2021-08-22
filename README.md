@@ -227,3 +227,4 @@
 | Day101_Q211|DP|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day101_Q211_DP_CountingBits.java)|Practice|⭐⭐|
 | Day101_Q212|DP|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day101_Q212_DP_Fibonacci.java)|Practice|⭐|
 | Day101_Q213|DP|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day101_Q213_DP_N-th%20Tribonacci%20Number.java)|Practice|⭐|
+| Day102_Q214|DP|[Pascals Triangle2](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day102_Q214_DP_PascalsTriangle.java)|Practice|⭐⭐|
