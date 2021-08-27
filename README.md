@@ -231,3 +231,4 @@
 | Day103_Q215|DP|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day103_Q215_DP_UniquePath.java)|Practice|⭐⭐|
 | Day104_Q216|DP|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day104_Q216_DP_Jump%20Game.java)|Practice|⭐⭐|
 | Day105_Q217|DP|[** LongestPalindromicSubstr](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day105_Q217_DP_LongestPalindromicSubstring.java)|Practice|⭐⭐⭐⭐|
+| Day106_Q218|DP|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day106_Q218_DP_Get%20Maximum%20in%20Generated%20Array.java)|Practice|⭐⭐|
