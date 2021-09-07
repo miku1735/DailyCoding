@@ -235,3 +235,4 @@
 | Day107_Q219|BST|[k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/Tree/BinarySearchTree/Day107_Q219_BST_k-th%20smallest%20element%20in%20BST.java)|Practice|⭐⭐|
 | Day108_Q220|DP|[** Palindromic patitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day108_Q220_DP_Palindromic%20patitioning%20.java)|Practice|⭐⭐⭐⭐⭐|
 | Day109_Q221|
+| Day110_Q222|
