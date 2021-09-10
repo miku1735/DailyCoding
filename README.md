@@ -238,3 +238,4 @@
 | Day110_Q222|
 | Day111_Q223|
 | Day112_Q224|
+| Day113_Q225|DP|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Solution](https://github.com/miku1735/DailyCoding/blob/master/DP/Day113_Q225_DP_Count%20Sorted%20Vowel%20Strings.java)|Practice|⭐⭐⭐⭐|
