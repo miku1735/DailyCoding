@@ -53,3 +53,28 @@ class Solution{
 	    return dp[N][W]>W?-1:dp[N][W];
 	} 
 }
+
+class Solution{
+    int[] dp;
+    public int sol(int coins[], int M, int V) {
+        if(V==0) return 0;
+	    
+	    if(dp[V]!=-1) return dp[V];
+	    int min = Integer.MAX_VALUE;
+	    
+	    for(int i=0;i<M;i++){
+	        if (coins[i] <= V){
+	        min = Math.min(min, sol(coins, M, V-coins[i]) ) ;
+	        }
+	    }
+	    return  dp[V] = min==Integer.MAX_VALUE?Integer.MAX_VALUE: min + 1;
+    }
+	public int minCoins(int coins[], int M, int V) 
+	{ 
+	    dp = new int[V+1];
+	    for (int i = 1; i <= V; i++)
+            dp[i] = -1;
+	    int ans = sol(coins, M, V);
+	    return ans == Integer.MAX_VALUE? -1: ans;
+	} 
+}
