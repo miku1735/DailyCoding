@@ -61,3 +61,61 @@ class Solution {
          return cost[dst]==Integer.MAX_VALUE?-1:cost[dst];
      }
  }
+
+
+ class Node{
+    int node;
+    int weight;
+    int pathLength;
+    Node(int node, int weight, int pathLength){
+        this.node = node;
+        this.weight = weight;
+        this.pathLength = pathLength;
+    }
+}
+class NodeCompare implements Comparator<Node>{
+    public int compare(Node a, Node b){
+        return a.weight-b.weight;
+    }
+}
+
+
+class Solution {
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
+        
+        PriorityQueue<Node> q = new PriorityQueue<>(new NodeCompare());
+        
+        int[][] cost = new int[n][k+1];
+        for(int i=0;i<n;i++){
+            Arrays.fill(cost[i], Integer.MAX_VALUE/2);
+        }
+        for(int i=0;i<k;i++){
+            cost[src][i] = 0;
+        }
+        
+        q.add(new Node(src,0,0));
+        
+        
+        
+        while(!q.isEmpty()){
+            Node curr = q.poll();
+
+            for(int i=0;i<flights.length;i++){
+                if(curr.node == flights[i][0]){
+                    if(curr.pathLength <=k && curr.weight+flights[i][2]<cost[flights[i][1]][curr.pathLength]){
+                        q.add(new Node(flights[i][1], curr.weight+flights[i][2], curr.pathLength + 1));
+                        cost[flights[i][1]][curr.pathLength] = curr.weight+flights[i][2];
+                    }
+                }
+            }
+        }
+
+        
+        int min = Integer.MAX_VALUE;
+        for(int i=0;i<=k;i++){
+            min = Math.min(min, cost[dst][i]);
+        }
+        if(min==Integer.MAX_VALUE/2) return -1;
+        return min;   
+    }
+}
