@@ -40,7 +40,7 @@ Constraints:
 
 
 
-
+Time Complexity of the sorting algo is nLog(n)
 class Solution{
     public static int kthSmallest(int[] arr, int l, int r, int k) 
     { 
@@ -48,3 +48,54 @@ class Solution{
         return arr[k-1];
     } 
 }
+
+Time Complexity of the sorting algo is n+ kLog(n)
+class Solution{
+    public static int kthSmallest(int[] arr, int l, int r, int k) 
+    { 
+        PriorityQueue<Integer> p = new PriorityQueue<>();
+        
+        for(int val : arr){
+            p.add(val);
+        }
+        int result = 0;
+        for(int i = 0; i<k;i++){
+            result = p.poll();
+        }
+        return result;
+    } 
+}
+
+
+Time Complexity of the Quick Select will be best - > O(n)
+class Solution{
+    
+    public static void Swap(int[] arr, int index1, int index2){
+        int temp = arr[index1];
+        arr[index1] = arr[index2];
+        arr[index2] = temp;
+    }
+    
+    public static int kthSmallest(int[] arr, int l, int r, int k) 
+    { 
+        // Quick Select
+        // A half version of Quick Sorting based on partitionin
+        Swap(arr, l, (l+r)/2);
+        
+        int i = l;
+        int j = r;
+        
+        while(i<j){
+            while(i<arr.length && arr[i]<=arr[l]) i++;
+            while(j>-1  && arr[j]>arr[l]) j--;
+            if(i<j){
+                Swap(arr, i, j);
+            }
+        }
+        Swap(arr, l, j);
+        if(j==k-1) return arr[j];
+        else if(j>k-1) return kthSmallest(arr, l, j-1, k);
+        else return kthSmallest(arr, j+1, r, k);
+    } 
+}
+
