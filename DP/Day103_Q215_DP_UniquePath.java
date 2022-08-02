@@ -43,6 +43,40 @@ Constraints:
 It's guaranteed that the answer will be less than or equal to 2 * 109.
  */
 
+
+//Grapgh Solution ------>>>>> Not Accepted
+class Solution {
+    
+    int totalPath = 0;
+    public void DFS(int[][] board, int i, int j, int row, int col){
+        if(i == row-1 && j == col-1){
+            totalPath++;
+            return;
+        }
+        
+        if(j<=col-2 && board[i][j+1] != 1){
+            board[i][j+1] = 1;
+            DFS(board, i, j+1, row, col);
+            board[i][j+1] = 0;
+        }
+        if(i<=row-2 && board[i+1][j] != 1){
+            board[i+1][j] = 1;
+            DFS(board, i+1, j, row, col);
+            board[i+1][j] = 0;
+        }
+    }
+    
+    public int uniquePaths(int m, int n) {
+        int[][] board = new int[m][n];
+        
+        board[0][0] = 1;
+        
+        DFS(board, 0, 0, m, n);
+        return totalPath;
+    }
+}
+
+
 class Solution {
     public int uniquePaths(int m, int n) {
         int dp[][] = new int[m][n];
